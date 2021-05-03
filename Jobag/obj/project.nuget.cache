@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zy6oxBoEjpbG7c77Yo0rygwDIJ4IX21Zjk/sd7oAu31wwQ5tM/qn/V++xE/WLxGaR4r/UZtrSYpbuL+IN7IGeQ==",
+  "dgSpecHash": "7/6p73lI33lyfnB7T7NlsKBMzZoyAEDcPTABFVZUyfH823VPXbRn72mgZc7EHYn7GDf76trOXXM99eqZXiWANA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows 10\\source\\repos\\Jobag\\Jobag.csproj",
+  "projectFilePath": "C:\\Users\\Windows 10\\Documents\\GitHub\\JobagBackend\\Jobag\\Jobag.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

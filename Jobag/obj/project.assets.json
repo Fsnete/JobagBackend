@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\source\\repos\\Jobag\\Jobag.csproj",
+      "projectUniqueName": "C:\\Users\\Windows 10\\Documents\\GitHub\\JobagBackend\\Jobag\\Jobag.csproj",
       "projectName": "Jobag",
-      "projectPath": "C:\\Users\\Windows 10\\source\\repos\\Jobag\\Jobag.csproj",
+      "projectPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\JobagBackend\\Jobag\\Jobag.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\source\\repos\\Jobag\\obj\\",
+      "outputPath": "C:\\Users\\Windows 10\\Documents\\GitHub\\JobagBackend\\Jobag\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

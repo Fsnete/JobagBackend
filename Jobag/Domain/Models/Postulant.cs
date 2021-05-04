@@ -9,5 +9,8 @@ namespace Jobag.Domain.Models
     {
         public int postulant_id { get; set; }
 
+        Profesional_Profile Profesional_profile { get; set; }
+
+        public int Profesional_profile_id { get; set; }
     }
 }

@@ -12,6 +12,9 @@ namespace Jobag.Domain.Models
         public string LastName { get; set; }
         public long Phone_Number { get; set; }
         public string Password { get; set; }
+        public IList<Notification> Notifications { get; set; } = new List<Notification>();
+        public Document Document { get; set; }
+        public int Document_Id { get; set; }
 
     }
 }

@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace Jobag.Domain.Models
 {
-    public class Employer: User
+    public class Video
     {
-        public int employer_id { get; set; }
+        public int Id { get; set; }
 
-        Company_Profile Company_Profile { get; set; }
+        public string url { get; set; }
     }
 }
